@@ -1,3 +1,6 @@
+/*This is just a driver program to demonstrate how to use the library and some of its functions*/
+/*Not a part of the library*/
+
 #include<iostream>
 #include"matrix.h"
 using namespace std;

@@ -1,6 +1,11 @@
 #pragma once
 
 #include<vector>
+#include<iostream>
+#include<iomanip>
+#include<string>
+#include<stdlib.h>
+#include<cmath>
 using namespace std;
 
 class Matrix {

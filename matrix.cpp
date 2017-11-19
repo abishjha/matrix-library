@@ -1,9 +1,4 @@
-#include<iostream>
-#include<iomanip>
-#include<string>
-#include<stdlib.h>
 #include"matrix.h"
-using namespace std;
 
 void Matrix::init() 
 {
